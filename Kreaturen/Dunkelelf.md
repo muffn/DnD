@@ -1,0 +1,6 @@
+---
+aliases:
+  - Dunkelelfen
+  - Dunkelelfin
+  - Dunkelelfinnen
+---

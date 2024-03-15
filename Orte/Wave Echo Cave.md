@@ -1,0 +1,1 @@
+Teil der [[Verlorene Mine von Phandelver]]. Beherbergt einen Kraken

@@ -1,0 +1,6 @@
+---
+aliases:
+  - Zwergin
+  - Zwerginnen
+  - Zwerge
+---
