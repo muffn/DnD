@@ -1,8 +1,8 @@
 # Die [[Verlorene Mine von Phandelver]]
 - [x] Finde heraus, warum [[Gundren]] interesse an der Mine hat
 - [x] Finde heraus, warum [[Quests & Questions]] interesse an der Mine hat
-- [ ] Finde heraus, warum die Goblins interesse an der Mine haben
-- [ ] Finde heraus, ob die Goblins [[Gundren]] wegen der Mine verschleppt haben
+- [x] Finde heraus, warum die Goblins interesse an der Mine haben
+- [x] Finde heraus, ob die Goblins [[Gundren]] wegen der Mine verschleppt haben
 - [x] Finde heraus, wo der Eingang zu der Mine ist
 
 ## Die Trollhöhle

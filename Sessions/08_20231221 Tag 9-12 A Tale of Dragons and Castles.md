@@ -67,7 +67,7 @@ In der Nacht, nutzt [[Erin]] die Potion of Flying die wir haben, macht sich unsi
 
 Dabei erzeugt er einen großen Tumult, da er alle Türen aufreißt und die Goblins nach Strich und Faden verarscht, in dem er ihnen auf den Kopf pustet und Gegenstände verschiebt.
 
-Er findet heraus, dass in der Festung mehr als 15-20 Feinde lauern. Außerdem erhascht er den Blick auf eine [[Dunkelelf]]in die mit ihrem Gefolge im Nordosten der Festung positioniert ist. Wir vermuten dass diese die [[Spinne]] sein könnte.
+Er findet heraus, dass in der Festung mehr als 15-20 Feinde lauern. Außerdem erhascht er den Blick auf eine [[Dunkelelf]]in die mit ihrem Gefolge im Nordosten der Festung positioniert ist. Wir vermuten dass diese die [[Nesnar|Spinne]] sein könnte.
 
 In dem Raum befindet sich auch ein [[Zwerg]], welcher [[Gundren]] sein könnte.
 

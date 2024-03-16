@@ -1,0 +1,1 @@
+Im Norden von [[Phandalin]] gelegen. Besitzt einen zerstörten Brunnen.

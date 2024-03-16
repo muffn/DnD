@@ -1,3 +1,5 @@
+[[Goblin]]
+
 Reitet unglaublich gut Schafe. Wurde von uns in [[Phandalin]] gefangen genommen als er gerade mit einem Schaf gespielt hat.
 
 Gehört dem [[Sawplies Clan]] Clan an.

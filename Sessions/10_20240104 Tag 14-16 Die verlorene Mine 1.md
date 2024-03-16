@@ -40,7 +40,7 @@ Bei unserem Rettungsversuch, konnten wir zwar [[Sildar]] befreien, aber [[Gundre
 
 Unter Folter gab er seine Geheimnisse Preis, den Ort der [[Verlorene Mine von Phandelver]].
 
-Wie die Goblins herausgefunden haben, dass [[Gundren]] die Mine gefunden hat, weiß er nicht. Auch nicht was sie dort wollen. Auf die [[Spinne]] ist er auch getroffen, kann aber nicht sagen, wie sie heißt, hat auch den Namen Spinne nicht in ihrem Zusammenhang gehört.
+Wie die Goblins herausgefunden haben, dass [[Gundren]] die Mine gefunden hat, weiß er nicht. Auch nicht was sie dort wollen. Auf die [[Nesnar|Spinne]] ist er auch getroffen, kann aber nicht sagen, wie sie heißt, hat auch den Namen Spinne nicht in ihrem Zusammenhang gehört.
 
 Als wir schließlich in [[Phandalin]] angekommen sind, haben wir uns die Belohnung für die Rettung [[Gundren]]s von [[Sildar]] abgeholt (500 Gold). Wir haben unsere Vorräte aufgestockt und der Frau von [[Familie Dendra]] ihr Smaragdamulett zurückgegeben. Sie hat versprochen, uns dafür etwas schuldig zu sein.
 

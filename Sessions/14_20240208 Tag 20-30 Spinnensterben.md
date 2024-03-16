@@ -22,7 +22,7 @@ Wir erwachten in der Taverne "Schlafender Riese", wobei Gunthar von einem Albtra
 ## Log
 
 
-Wir sind in der Taverne [[Schlafender Riese]] aufgewacht. [[Gunthar]] hatte einen Albtraum bei dem er mit der [[Spinne]] im Verließ war.
+Wir sind in der Taverne [[Schlafender Riese]] aufgewacht. [[Gunthar]] hatte einen Albtraum bei dem er mit der [[Nesnar|Spinne]] im Verließ war.
 
 [[Nundro]] hat uns mitgeteilt, dass er nach [[Neverwinter]] reisen möchte, um alles für die Nutzung der Mine vorzubereiten.
 
@@ -46,7 +46,7 @@ Zu dem Grünen Feuer der Mine haben wir keine neuen Informationen erhalten, zum 
 
 Wir haben [[Gwin]] angeboten, sie zurück nach [[Phandalin]] zu begleiten, sie hatte angemerkt dass sie dort hin möchte um ihre Schwester [[Elsa]] zu besuchen.
 
-Wir haben eine weitere Nacht in [[Neverwinter]] verbracht bei der [[Gunthar]] erneut von der [[Spinne]] geträumt hat.
+Wir haben eine weitere Nacht in [[Neverwinter]] verbracht bei der [[Gunthar]] erneut von der [[Nesnar|Spinne]] geträumt hat.
 
 Als wir zu [[Zephyrs Emporium der Wunder]] zurückgekehrt sind, konnte uns [[Sophia]] nicht sagen um welches Material es sich bei unserem Stein handelt. Nur, dass [[Klumpen]] offensichtlich magischen Ursprungs ist und möglicherweise zum Schmieden genutzt werden kann. Für einen 4 stelligen Goldbetrag könne man wohl probieren durch einen professionellen Schmied eine Magische Waffe damit anzufertigen.
 
@@ -64,7 +64,7 @@ Wir haben [[Gundren]] schnell befreit, es gab keine Gegner im Schloss. Darauf hi
 
 Dort haben wir [[Nesnar]] tot bei der [[magischen Schmiede]] aufgefunden. Er hat scheinbar ins Feuer gefasst und wollte die magische Kraft absorbieren.
 
-[[Ismael]] hat mit dem toten [[Nesnar]] gesprochen, welcher uns verriet, dass er die [[Spinne]] ist und dass er den [[Nekromant]] zuletzt bei [[Old Owl Tower]] getroffen hat.
+[[Ismael]] hat mit dem toten [[Nesnar]] gesprochen, welcher uns verriet, dass er die [[Nesnar|Spinne]] ist und dass er den [[Nekromant]] zuletzt bei [[Old Owl Tower]] getroffen hat.
 
 Wir haben [[Nesnar]] und den toten Bruder von [[Gundren]] in die [[Bag of Holding]] eingepackt und sind damit nach [[Phandalin]] zurück gereist.
 

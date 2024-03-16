@@ -2,4 +2,4 @@ In der Nähe von [[Neverwinter]] wurde ein Nekromant gesichtet, möglicherweise 
 
 Weitere Zombies wurden in [[Thundertree]] und in der [[Verlorene Mine von Phandelver]] von uns eliminiert.
 
-Zuletzt von der [[Spinne]] bei [[Old Owl Tower]] getroffen.
+Zuletzt von der [[Nesnar|Spinne]] bei [[Old Owl Tower]] getroffen.

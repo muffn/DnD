@@ -1,7 +1,7 @@
 [[Mensch]]
 Gesicht/Anführer der [[Red Brands]]
 Besaß einen Glasstab, deshalb der Name
-Er erhält seine Aufträge von [[Spinne]]
+Er erhält seine Aufträge von [[Nesnar|Spinne]]
 Sitzt zur Zeit in [[Neverwinter]] im Gefängnis
 
 Hat sich sehr Fügig gezeigt

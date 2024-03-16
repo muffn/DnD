@@ -1,5 +1,5 @@
-[[Dunkelelf]]in
+[[Dunkelelf|Dunkelelfin]]
 
-Haben wir in der [[Verlorene Mine von Phandelver]] bei der Befragung nach der [[Spinne]] enthauptet.
+Haben wir in der [[Verlorene Mine von Phandelver]] bei der Befragung nach der [[Nesnar|Spinne]] enthauptet.
 
-Behauptete, den [[Zwerg]]en in die Mine gefolgt zu sein.
+Behauptete, den [[Zwerg|Zwergen]] in die Mine gefolgt zu sein.
