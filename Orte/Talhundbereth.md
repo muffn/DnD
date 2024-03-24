@@ -1,0 +1,1 @@
+Ein Untergrund Tempel der Zwerge in den [[Starmetal Hills]]. Aufenthaltsort einer der [[Infinity Shards]]

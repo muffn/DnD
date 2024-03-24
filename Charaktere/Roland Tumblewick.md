@@ -1,0 +1,1 @@
+[[Gnom]]. War gefangen in [[Zorzola's Rast]]. Lebt in [[Phandalin]]

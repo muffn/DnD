@@ -1,0 +1,1 @@
+Stablehand, macht was im Stall. War gefangen in [[Zorzola's Rast]]. Lebt in [[Phandalin]]

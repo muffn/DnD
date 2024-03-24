@@ -1,0 +1,1 @@
+Berge im Süden von [[Phandalin]]. Aufenthaltsort von 3 von 4 [[Infinity Shards]]

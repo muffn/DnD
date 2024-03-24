@@ -1,0 +1,1 @@
+Fernter Verwandter vom [[Harbyn Westa|Bürgermeister]]. War gefangen in [[Zorzola's Rast]]. Lebt in. [[Phandalin]]

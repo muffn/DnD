@@ -2,7 +2,7 @@
 aliases:
   - Verlorenen Mine von Phandelver
   - Verlorene Mine
-  - verlonenen Mine
+  - verlorenen Mine
 ---
 **Notizbucheintrag: Die Verlorene Mine von Phandelver - Umfassende Analyse**
 
