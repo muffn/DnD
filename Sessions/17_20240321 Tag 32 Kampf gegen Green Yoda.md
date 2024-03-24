@@ -10,8 +10,7 @@ tags:
 ---
 ## Session Zusammenfassung
 
-
-
+Wir haben [[Rucksifit]] getötet, die Gefangenen befreit und unseren Frieden mit den Goblins geschlossen. Außerdem haben wir von dem Aufenthaltsort und der Existenz der 4 [[Infinity Shards]] erfahren. Dann haben wir noch ein paar [[Dunkelzwerg|Dunkelzwergen]] [[Untote|Zombies]] getötet und uns auf den Rückweg nach [[Phandalin]] gemacht.
 ^summary
 
 ## Zusammenfassung der letzten Session
