@@ -5,7 +5,7 @@ Die Grüne Scherbe war in [[Zorzola's Rast]].
 Wir haben folgendes gehört:
 
 Sehr gut, die 4 [[Infinity Shards]] werden bald unser sein. Sammelt noch die drei anderen in [[Talhundbereth]] (Underground dwarf temple)
-[[Crypt of Talhund]] (Unter dem Tempel)
+[[Krypta von Talhund]] (Unter dem Tempel)
 [[Gibbet Crossing]] (Very underground)
 Phandalin wird unser sein
 

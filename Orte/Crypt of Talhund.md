@@ -1,1 +1,0 @@
-Ein Untergrund Tempel in den [[Starmetal Hills]]. Aufenthaltsort einer der [[Infinity Shards]]

@@ -1,0 +1,1 @@
+Mine im Südosten von [[Phandalin]]. Beherbergt verschüttete Minenarbeiter und Freunde von [[Werno]].

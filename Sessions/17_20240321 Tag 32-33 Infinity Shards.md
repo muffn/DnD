@@ -30,7 +30,7 @@ Mit dem Tod von [[Rucksifit]] haben die zwei überlebenden [[Goblin|Goblins]] de
 Nachdem [[Macavius “Ink“ Osma|Macavius]] den Stein auf dem Kopf von [[Rucksifit]] aufgehoben hat, haben wir außerdem alle Stimmen gehört die uns folgendes mitgeteilt haben:
 
 "Sehr gut, die 4 [[Infinity Shards]] werden bald unser sein. Sammelt noch die drei anderen in [[Talhundbereth]] (Underground dwarf temple)
-[[Crypt of Talhund]] (Unter dem Tempel)
+[[Krypta von Talhund]] (Unter dem Tempel)
 [[Gibbet Crossing]] (Very underground)
 Phandalin wird unser sein"
 
