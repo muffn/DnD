@@ -22,7 +22,7 @@ Wir gehen zu dem Schrein in [[Phandalin]]. Schrein der Göttin des Glückes gewi
 
 Beetende Elfe (Priesterin von Talmora (Göttin)). [[Schwester Garele]] Abenteurerin die mit dem Leben davon gekommen ist. Sie hat eine Quest für uns.
 
-Nordöstlich ist eine Stadtruine [[Cobyberry]], sie wollte mit einem Geist kommunizieren. Fragen nach einem Zauberbuch. Der Geist hat nach etwas gesucht dass sie nicht hatte.
+Nordöstlich ist eine Stadtruine [[Conyberry]], sie wollte mit einem Geist kommunizieren. Fragen nach einem Zauberbuch. Der Geist hat nach etwas gesucht dass sie nicht hatte.
 
 Sie sollte nach einem Buch fragen: nach einem Zauberbuch. Sie hat den Gegenstand, nach dem der Geist gesucht hat.
 

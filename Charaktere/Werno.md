@@ -1,1 +1,1 @@
-Minenarbeiter aus [[Phandalin]].
+Minenarbeiter aus [[Phandalin]]. Seine Freunde wurden in der [[Hardyhammer Mine]] von einem Pflanzenmonster gefangen gehalten. Hat uns dann in die [[Verlorene Mine von Phandelver|Verlorene Mine]] begleitet und arbeitet dort für uns und [[Nundro]].

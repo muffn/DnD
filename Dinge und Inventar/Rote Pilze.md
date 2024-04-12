@@ -1,0 +1,1 @@
+Gefunden in [[Phandalin]]. Haben magischen Einfluss.

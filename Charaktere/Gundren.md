@@ -1,4 +1,7 @@
 [[Zwerg]]
+
+Bruder von [[Nundro]] und [[Fardin]].
+
 Auftraggeber Karavane zwischen [[Neverwinter]] und [[Phandalin]] 
 
 Gekidnappt von Goblins, vermutlich weiter transportiert zu einer Goblin Feste

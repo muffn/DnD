@@ -1,0 +1,1 @@
+Stadt weit im Osten in Richtung [[Baldurs Gate]]

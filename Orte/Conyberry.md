@@ -1,0 +1,1 @@
+Ein verlassenes Dorf im Nordosten von [[Phandalin]]. Befindet sich auf der Handelsstraße [[Dreieberpfad]] die richtung [[Dreieberstadt]] führt.

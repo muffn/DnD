@@ -1,0 +1,1 @@
+Ein magisches Buch, dass [[Schwester Garele]] sucht. Der [[Geist von Conyberry]] hat es vor 100 Jahren an [[Cernmov]] aus [[Irabor]] weitergegeben.

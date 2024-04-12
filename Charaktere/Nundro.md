@@ -1,3 +1,3 @@
 [[Zwerg]]
 
-Bruder von [[Gundren]]
+Bruder von [[Gundren]] und [[Fardin]]

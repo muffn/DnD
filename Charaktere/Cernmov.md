@@ -1,0 +1,1 @@
+Wohnhaft in [[Irabor]]. Besitzt möglicherweise noch das Buch [[Bowgentle Spellbook]]. Hat es von dem [[Geist von Conyberry]] vor 100 Jahren erhalten.

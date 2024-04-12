@@ -34,7 +34,7 @@ Gemeinsam mit [[Nundro]] und geliehenen Pferden sind wir dann nach [[Neverwinter
 
 Wir haben Heiltränke gekauft und die [[Bag of Holding]]. Darüber hinaus hat [[Sophia]] uns angeboten, unseren Stein den wir aus der Schmiede geborgen haben zu untersuchen und uns mitzuteilen, aus welchem Material er besteht, dazu sollten ihn bei ihr lassen wir am nächsten Morgen nochmal vorbei kommen (hat 20 Gold gekostet).
 
-[[Gunthar]] wollte anschließend noch auf den Tiermarkt um einen [[Falken]] zu erwerben, den er auch für 40 Gold erhalten hat.
+[[Gunthar]] wollte anschließend noch auf den Tiermarkt um einen [[Hawkie]] zu erwerben, den er auch für 40 Gold erhalten hat.
 
 Anschließend haben wir die [[Große Bibliothek]] von [[Neverwinter]] aufgesucht und dort mit der [[Zwerg|Zwergin]] und Bibliothekarin [[Gwin]] zu sprechen um Aufzeichnungen über die [[Verlorene Mine von Phandelver|Verlorene Mine]], [[Drache|Drachen]] und den [[Nekromant]] zu finden.
 
@@ -52,7 +52,7 @@ Als wir zu [[Zephyrs Emporium der Wunder]] zurückgekehrt sind, konnte uns [[Sop
 
 Anschließend sind wir mit [[Gwin]] Richtung [[Phandalin]] aufgebrochen aber nicht ohne vorher einen Abstecher bei der [[Cragmaw Festung]] zu machen, wir haben vermutet, dass wir dort [[Gundren]] ausfindig machen könnten.
 
-[[Gunthar]] hat seinen [[Falken]] losgeschickt um die Umgebung zu erkunden, dieser hat darauf hin drei Gestalten auf einem Hügel im Norden der Festung ausfindig gemacht.
+[[Gunthar]] hat seinen [[Hawkie]] losgeschickt um die Umgebung zu erkunden, dieser hat darauf hin drei Gestalten auf einem Hügel im Norden der Festung ausfindig gemacht.
 
 Unser Versuch ihnen eine Falle zu stellen und uns anzuschleichen ist kläglich gescheitert. Wir haben [[Nesnar]] gerade noch gesehen als er sich unsichtbar machte und verschwand.
 

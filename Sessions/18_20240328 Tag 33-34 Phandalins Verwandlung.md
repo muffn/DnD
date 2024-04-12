@@ -10,7 +10,7 @@ tags:
 ---
 ## Session Zusammenfassung
 
-Wir bemerken so langsam wie es mit Phandalin bergab geht. Komische Dinge passieren, komische Kreaturen erscheinen, komische Pflanzen fangen an zu wachsen. Was hat dies möglicherweise mit den [[Infinity Shards]] zu tun? Wir werden zur Beerdigung von [[Gundren]]s Bruder eingeladen gehen aber zunächst gen [[Handyhammer Mine]].
+Wir bemerken so langsam wie es mit Phandalin bergab geht. Komische Dinge passieren, komische Kreaturen erscheinen, komische Pflanzen fangen an zu wachsen. Was hat dies möglicherweise mit den [[Infinity Shards]] zu tun? Wir werden zur Beerdigung von [[Gundren]]s Bruder eingeladen gehen aber zunächst gen [[Hardyhammer Mine]].
 ^summary
 
 ## Zusammenfassung der letzten Session
@@ -73,8 +73,8 @@ Wir holen [[Gunthar]] zurück um ihn mit der Kuh reden zu lassen, diese meint, d
 
 Die Kuh erzählt kurz davon wo sie ungefähr das verdorbene Blatt gegessen hat, wir konnten es am Abend aber nicht mehr finden.
 
-Als wir den Minenarbeiter in der Taverne treffen, erzählt er uns davon, dass er mit seinen Kumpels in die angeblich verlassene [[Handyhammer Mine]] gegangen ist. Dort wurden seine Freunde leider eingeschüttet, nur er konnte entkommen und ist hilfesuchend nach [[Phandalin]] zurückgekehrt. Er heißt [[Werno]]
+Als wir den Minenarbeiter in der Taverne treffen, erzählt er uns davon, dass er mit seinen Kumpels in die angeblich verlassene [[Hardyhammer Mine]] gegangen ist. Dort wurden seine Freunde leider eingeschüttet, nur er konnte entkommen und ist hilfesuchend nach [[Phandalin]] zurückgekehrt. Er heißt [[Werno]]
 
 Wir teilen [[Gundren]] mit, dass wir es nicht zur Beerdigung schaffen, da wir dem Minenarbeiter helfen müssen, er bietet uns an die Beerdigung etwas nach hinten zu verschieben.
 
-Am nächsten Morgen machen wir uns mit [[Werno]] auf den Weg zur [[Handyhammer Mine]]. Wir bemerken, dass jetzt auch Rote Pilze in [[Phandalin]] wachsen die dort nichts verloren haben.
+Am nächsten Morgen machen wir uns mit [[Werno]] auf den Weg zur [[Hardyhammer Mine]]. Wir bemerken, dass jetzt auch Rote Pilze in [[Phandalin]] wachsen die dort nichts verloren haben.
