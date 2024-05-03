@@ -1,0 +1,1 @@
+Von uns in [[Talhundbereth]] getötet, hat Kontakt zu [[Krasses Tentakelfiech]] und einem gottartigen Wesen dass auch [[Rucksifit]] angebetet hat.

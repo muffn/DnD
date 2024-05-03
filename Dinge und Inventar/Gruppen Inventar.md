@@ -9,6 +9,8 @@
 - 1 Räuchergefäß
 - Scroll of Hold Person
 - Scroll of Fireball
+- Scroll of Misty Step
+- Scroll of Lightning Bolt
 - 5 Grappling Hook
 - Gunther Spitzhacke
 - Spinnenstab

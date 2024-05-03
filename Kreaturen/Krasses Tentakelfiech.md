@@ -1,0 +1,1 @@
+Ist eine pinke Pyramide mit einem Maul an der Unterseite, haben wir beim Zwergen Paladin in der Nähe von [[Phandalin]] getroffen und auch in [[Talhundbereth]].

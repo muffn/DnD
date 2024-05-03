@@ -13,7 +13,7 @@ Nennenswerte Orte und Personen im Dorf:
 * [[Daran]]
 * [[Miners Exchange]]
 
-In dem Dorf soll es einen Bäckersjungen geben, Erin hat Stimmen gehört. Die Bäckersfrau behauptet keinen Sohn zu haben.
+In dem Dorf soll es einen Bäckersjungen geben, Erin hat die [[Die Stimme|Stimme]] gehört. Die Bäckersfrau behauptet keinen Sohn zu haben.
 
 Uns wurde mitgeteilt, dass wir uns ein Haus aussuchen dürften und häuslich einrichten. Wir haben überlegt das Alte Anwesen wieder flott zu machen. Der Bürgermeister müsste sich das erst noch überlegen.
 

@@ -46,7 +46,7 @@ Als wir schließlich in [[Phandalin]] angekommen sind, haben wir uns die Belohnu
 
 Wir haben uns darauf hin spät Abends in den [[Miners Exchange]] begeben, um Grappling Hooks und Spitzhacken zu kaufen.
 
-Für die Nacht haben wir uns ein Zimmer in der Taverne [[Schlafender Riese]] genommen. [[Erin]] ist in der Nacht von einer Stimme aufgewacht "Der Bäckersjunge". Er hat den anderen nichts davon erzählt.
+Für die Nacht haben wir uns ein Zimmer in der Taverne [[Schlafender Riese]] genommen. [[Erin]] ist in der Nacht von einer [[Die Stimme|Stimme]] aufgewacht "Der Bäckersjunge". Er hat den anderen nichts davon erzählt.
 
 Am nächsten Morgen hat [[Erin]] die Gruppe davon überzeugt, zur lokalen Bäckerei zu gehen für "Törtchen". Wir haben herausgefunden, dass die Bäckersdame zumindest behauptet, keinen Sohn zu haben.
 

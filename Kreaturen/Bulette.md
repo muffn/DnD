@@ -1,0 +1,1 @@
+Wurmartiges Monster mit Füßen, dass sich aus dem Boden gräbt und angreift. Lebt im [[Underdark]]

@@ -1,0 +1,1 @@
+Zunächst aushändigt an [[Geist von Conyberry]], dann von erschlagenem Geist zurückerlangt.

@@ -48,7 +48,7 @@ Die Zombies werden nach und nach von [[Gunthar]] und den anderen in Stücke zerf
 
 Gemeinsam versucht die Gruppe vergeblich den [[Nekromant]] aufzuspüren und durchsucht dabei den Turm, das Zelt und die umliegende Umgebung. [[Ismael]] nutzt dafür seine Fähigkeit, unsichtbare zu sehen.
 
-[[Erin]] versucht den Verstand des [[Nekromant]] zu orten und tritt tatsächlich mit einer Stimme in Kontakt. Er sagt, dass er es schön findet, dass sich [[Erin]] auch mal bei ihm meldet und nicht nur andersrum. Als Erin versucht weiter in den Verstand einzudringen wird er durch die Stimme verletzt.
+[[Erin]] versucht den Verstand des [[Nekromant]] zu orten und tritt tatsächlich mit einer [[Die Stimme|Stimme]] in Kontakt. Er sagt, dass er es schön findet, dass sich [[Erin]] auch mal bei ihm meldet und nicht nur andersrum. Als Erin versucht weiter in den Verstand einzudringen wird er durch [[Die Stimme]] verletzt.
 
 [[Ismael]] macht sich auf einmal aus dem Staub und bewegt sich zum Drachenkörper hin, [[Gunthar]] verfolgt ihn.
 

@@ -50,11 +50,11 @@ Auf der Beerdigung von [[Fardin]] wurden Reden geschwungen und seine Leiche dann
 
 Die Brüder haben am Ende [[Macavius “Ink“ Osma|Macavius]] einen Mantel im Namen der Dankbarkeit an unsere Gruppe überreicht. Einen Cloak of Protection. Den hat er angezogen.
 
-Wir haben uns danach weiter daran gemacht, erfolglos einen Ring zu verzaubern. Alle versuche gingen nach hinten los und der Ring ist immer wieder explodiert. [[Erin]] meint, eine Stimme im Feuer gehört zu haben, die erfolglos versucht mit ihm Kontakt aufzunehmen.
+Wir haben uns danach weiter daran gemacht, erfolglos einen Ring zu verzaubern. Alle versuche gingen nach hinten los und der Ring ist immer wieder explodiert. [[Erin]] meint, eine [[Die Stimme|Stimme]] im Feuer gehört zu haben, die erfolglos versucht mit ihm Kontakt aufzunehmen.
 
 Auf dem Weg zum [[Nekromant]] entscheiden wir uns dafür, über [[Conyberry]] zu laufen da dort noch die Aufgabe von [[Schwester Garele|Garele]] auf uns wartet.
 
-Kurz nach dem verlassen der [[Verlorene Mine von Phandelver|verlorenen Mine]] hört [[Erin]] den Satz "Greif danach" in seinem Kopf und informiert die Gruppe. Wir entscheiden uns erstmal nichts damit zu tun.
+Kurz nach dem verlassen der [[Verlorene Mine von Phandelver|verlorenen Mine]] hört [[Erin]] den Satz "Greif danach" in seinem Kopf und informiert die Gruppe über die [[Die Stimme|Stimme]]. Wir entscheiden uns erstmal nichts damit zu tun.
 
 Im Nordosten von [[Conyberry]] befindet sich die verlassene Hütte des [[Geist von Conyberry]]. Dort haben wir mit ihr gesprochen. Leider hat sie uns im Austausch für den Kamm nur verraten, an wen sie vor 100 Jahren das Buch abgedrückt hat. [[Kaithos]] wurde von ihrem Schrei augenblicklich bewusstlos.
 

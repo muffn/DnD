@@ -27,7 +27,7 @@ Im weiteren Verlauf des Kampfes sind vier weitere [[Goblin|Goblins]] dazugestoß
 
 Mit dem Tod von [[Rucksifit]] haben die zwei überlebenden [[Goblin|Goblins]] den Dialog und die Friedensverhandlungen eröffnet.
 
-Nachdem [[Macavius “Ink“ Osma|Macavius]] den Stein auf dem Kopf von [[Rucksifit]] aufgehoben hat, haben wir außerdem alle Stimmen gehört die uns folgendes mitgeteilt haben:
+Nachdem [[Macavius “Ink“ Osma|Macavius]] den Stein auf dem Kopf von [[Rucksifit]] aufgehoben hat, haben wir außerdem alle die [[Die Stimme|Stimme]] gehört die uns folgendes mitgeteilt haben:
 
 "Sehr gut, die 4 [[Infinity Shards]] werden bald unser sein. Sammelt noch die drei anderen in [[Talhundbereth]] (Underground dwarf temple)
 [[Krypta von Talhund]] (Unter dem Tempel)
