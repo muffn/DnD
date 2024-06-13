@@ -1,1 +1,1 @@
-[[Nekromant]] im Osten des Landes (weit im Osten) Informationen aus der [[Große Bibliothek]]
+[[Nekromant von Fey]] im Osten des Landes (weit im Osten) Informationen aus der [[Große Bibliothek]]

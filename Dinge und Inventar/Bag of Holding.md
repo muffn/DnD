@@ -11,4 +11,5 @@ Enthält zurzeit:
 - Scheinbar leeres Buch
 - Kalligrafie kit
 - lizard medallion (bei erin)
-- battered great axt
+- [[Unbewegliche Greataxe]]
+- [[Obelisk]]

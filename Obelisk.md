@@ -1,0 +1,1 @@
+Großer massiver Fels aus dem gleichen Material wie [[Klumpen|magischer Stein]]. Gefunden in [[Talhundbereth]].

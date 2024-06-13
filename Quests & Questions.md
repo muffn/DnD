@@ -18,7 +18,7 @@
 - [ ] Bringt den Karren zu der [[Cragmaw Höhle]] und sammelt die Kisten ein
 - [ ] Bring die Kisten zu [[Lion Shield Costas]] und erhalte 50 #Gold 
 
-## Der [[Nekromant]]
+## Der [[Nekromant von Fey]]
 - [ ] Alter Turm mit Untoten?
 - [ ] [[Old Owl Well]]?
 - [ ] Belohnung für Beseitigung: Magische Stiefel von [[Daran]]

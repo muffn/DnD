@@ -43,7 +43,7 @@ Die Befreiten Gefangenen sind folgende Personen:
 - [[Paulina Privie]]
 - [[Roland Tumblewick]]
 
-Als wir nach oben gingen, haben wir nochmal versucht mit den [[Dunkelzwerg|Dunkelzwergen]] zu reden. Diese schienen nicht besonders Gesprächsbereit und überaus tot. ([[Untote|Zombies]]). Es hat sich abgezeichnet, dass diese auch unter dem Einfluss eines [[Nekromant]] standen. Sie sind monotonen Arbeiten nachgegangen, ganz so wie auch in der [[Verlorene Mine von Phandelver|verlorenen Mine]]. 
+Als wir nach oben gingen, haben wir nochmal versucht mit den [[Dunkelzwerg|Dunkelzwergen]] zu reden. Diese schienen nicht besonders Gesprächsbereit und überaus tot. ([[Untote|Zombies]]). Es hat sich abgezeichnet, dass diese auch unter dem Einfluss eines [[Nekromant von Fey]] standen. Sie sind monotonen Arbeiten nachgegangen, ganz so wie auch in der [[Verlorene Mine von Phandelver|verlorenen Mine]]. 
 
 In dem Raum, in dem drei von den [[Dunkelzwerg|Dunkelzwergen]] eingesperrt waren, haben wir uns von einem der Goblins reinführen lassen. Dort sind wir sofort in den Kampf eingetreten und haben die drei Zombies umgebracht. Diese haben wir darauf hin in unsere [[Bag of Holding]] eingepackt.
 

@@ -2,6 +2,8 @@ Nicht Celestial, Fiend oder Untot. Können oder wollen nicht über Gedankenüber
 
 Haben Augen und Tentakel auf allen Seiten. Laufen mit den Tentakeln.
 
-Kommen womöglich von [[Talhundbereth]] da sie dort von einem verstorbenem Paladin entdeckt wurden.
+Kommen womöglich von [[Talhundbereth]] da sie dort von einem verstorbenem [[Zwergen Paladin]] entdeckt wurden.
 
 Können nicht fliegen.
+
+Ist eine pinke Pyramide mit einem Maul an der Unterseite, haben wir beim [[Zwergen Paladin]] in der Nähe von [[Phandalin]] getroffen und auch in [[Talhundbereth]].

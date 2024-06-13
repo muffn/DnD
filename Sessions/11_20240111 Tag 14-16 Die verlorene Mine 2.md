@@ -11,7 +11,7 @@ tags:
 ## Session Zusammenfassung
 
 Nach dem Zombie-Kampf öffnen wir einen Leichenraum, hören weiteres Grollen. Wir gehen zurück, entdecken niedrige Gänge für Zwerge. In einer großen Höhle bemerkt [[Erin]] Bewegung im Wasser. Angriff auf [[Bugbear]]s und [[Dunkelelf]]in, [[Macavius “Ink“ Osma]] wird von Schlange angegriffen. Gemeinsam besiegen wir sie.
-Wir verhören gefangene [[Dunkelelf]]in, entdecken Altarraum der Zwerge mit [[Nesnar]]. [[Gunthar]] täuscht, bekommt Auftrag zur [[Nesnar|Spinne]] nach [[Thundertree]]. Wir sollen den Weg räumen, 600 Gold und Infos über [[Nekromant]] als Belohnung. [[Nesnar]] behauptet, nur wenige seiner Leute sind in der Mine. Hinter verschlossener Tür finden wir einen gefesselten [[Zwerg]].
+Wir verhören gefangene [[Dunkelelf]]in, entdecken Altarraum der Zwerge mit [[Nesnar]]. [[Gunthar]] täuscht, bekommt Auftrag zur [[Nesnar|Spinne]] nach [[Thundertree]]. Wir sollen den Weg räumen, 600 Gold und Infos über [[Nekromant von Fey]] als Belohnung. [[Nesnar]] behauptet, nur wenige seiner Leute sind in der Mine. Hinter verschlossener Tür finden wir einen gefesselten [[Zwerg]].
 
 ^summary
 
@@ -64,7 +64,7 @@ Das Öffnen der nächsten Tür offenbart einen Altarraum der Zwerge. Darin befin
 
 Die [[Nesnar|Spinne]] ist allerdings nicht in der [[Verlorene Mine von Phandelver]], weshalb [[Nesnar]] einen Botschafter aussendet, der mit einer Antwort der [[Nesnar|Spinne]] zu [[Thundertree]] in den Turm von [[Venom Fang]] gehen soll (dort hat [[Gunthar]] behauptet würden wir dann warten).
 
-Weil wir bereits da sind, hat [[Nesnar]] uns vorgeschlagen, dass wir für ihn den Weg voran räumen, dafür erhielten wir dann 600 Gold und Informationen über den Verbleib des [[Nekromant]].
+Weil wir bereits da sind, hat [[Nesnar]] uns vorgeschlagen, dass wir für ihn den Weg voran räumen, dafür erhielten wir dann 600 Gold und Informationen über den Verbleib des [[Nekromant von Fey]].
 
 [[Nesnar]] behauptete überdies, es gäbe ungefähr eine handvoll seiner Leute in der Mine.
 

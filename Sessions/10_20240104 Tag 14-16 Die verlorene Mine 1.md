@@ -11,7 +11,7 @@ tags:
 ## Session Zusammenfassung
 
 Nach einer Übernachtung in der [[Cragmaw Festung]] brechen wir mit [[Gundren]] in Richtung [[Phandalin]] auf. Unterwegs erzählt er von der Mine, die er mit seinen Brüdern vor 2-3 Wochen entdeckte. Seine Brüder blieben zurück, er ging nach [[Neverwinter]], traf uns und schickte uns mit der Vorratslieferung nach [[Phandalin]]. Von [[Goblin]]s überfallen wurde er zur [[Cragmaw Höhle]] verschleppt und unter Folter verriet er den Ort der [[Verlorene Mine von Phandelver]]. In [[Phandalin]] erhalten wir Belohnung (500 Gold), erneuern Vorräte und geben ein gestohlenes Smaragdamulett zurück. Im [[Miners Exchange]] kaufen wir Ausrüstung und übernachten im [[Schlafender Riese]].
-[[Erin]] hört nachts eine Stimme ("Der Bäckersjunge"). Am nächsten Morgen überzeugt er uns, zur Bäckerei zu gehen, doch die Bäckersdame hat angeblich keinen Sohn. Mit Brotleibern bewaffnet machen wir uns direkt zur [[Verlorene Mine von Phandelver]] auf. Spuren am Höhleneingang führen nach innen. Drinnen finden wir den getöteten Bruder von [[Gundren]] und gehen durch einen abgeseilten Höhleneingang. Unten entdecken wir einen toten [[Goblin]] der [[Sawplies Clan]], verfolgen Spuren nach Südosten, werden von Riesenmosquitos überrascht, finden Grüne Pilze und hören einen Schrei nach Norden Nordost. Im Süden werden wir von [[Zombies]] und [[Ogerzombies]] überrascht, möglicherweise durch einen [[Nekromant]]en verursacht.
+[[Erin]] hört nachts eine Stimme ("Der Bäckersjunge"). Am nächsten Morgen überzeugt er uns, zur Bäckerei zu gehen, doch die Bäckersdame hat angeblich keinen Sohn. Mit Brotleibern bewaffnet machen wir uns direkt zur [[Verlorene Mine von Phandelver]] auf. Spuren am Höhleneingang führen nach innen. Drinnen finden wir den getöteten Bruder von [[Gundren]] und gehen durch einen abgeseilten Höhleneingang. Unten entdecken wir einen toten [[Goblin]] der [[Sawplies Clan]], verfolgen Spuren nach Südosten, werden von Riesenmosquitos überrascht, finden Grüne Pilze und hören einen Schrei nach Norden Nordost. Im Süden werden wir von [[Zombies]] und [[Ogerzombies]] überrascht, möglicherweise durch einen [[Nekromant von Fey]]en verursacht.
 
 ^summary
 
@@ -70,4 +70,4 @@ Anschließend haben wir Grüne Pilze gefunden und einen Langezogenen Schrei geh�
 
 Wir sind weiter in den Süden vorgedrungen und in einem kleinen, leichenüberhäuftem Raum, von [[Zombie]]s und [[Ogerzombie]]s überrascht worden. 
 
-Dank [[Ismael]] wurden die meisten Zombies umgedreht und wir konnten kurzen Prozess machen. Ist hier möglicherweise ein [[Nekromant]] am Werk?
+Dank [[Ismael]] wurden die meisten Zombies umgedreht und wir konnten kurzen Prozess machen. Ist hier möglicherweise ein [[Nekromant von Fey]] am Werk?

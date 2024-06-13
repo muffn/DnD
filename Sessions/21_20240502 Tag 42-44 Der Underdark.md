@@ -22,9 +22,9 @@ Wir looten den Drachen und seinen Schatz, verstecken seine Schuppen in Conyberry
 
 Als wir Mittags beginnen den [[Drache|Drachen]] [[Venom Fang]] auszunehmen, erkundet [[Macavius “Ink“ Osma|Macavius]] erfolglos die Umgebung und hält Ausschau nach Feinden. [[Erin]] untersucht erfolglos den Brunnen. Wir sammeln einige Drachenschuppen und legen uns für die Nacht schlafen.
 
-Am nächsten Morgen versucht [[Gunthar]] erfolglos Tiere aufzuspüren um seinen verstorbenen Falken zu ersetzen. [[Macavius “Ink“ Osma|Macavius]] öffnet den Bauch des Drachens und entnimmt fachmännisch die Überreste von [[Hawkie]]. Aus den Knochen versucht er erfolglos eine Kette zu knüpfen bevor [[Gunthar]] den Falken dann begräbt und weiter Drachenschuppen vom Kadaver von [[Venom Fang]] sammelt. [[Erin]] nimmt erneut Kontakt zu [[Die Stimme|Stimme]] auf. Es ist offensichtlich nicht der [[Nekromant]] gewesen, da sie weiterhin antwortet aber wenig bis keine Details offenbart. Er bedeutet [[Erin]] sich zu öffnen, bleibt aber ungenau. 
+Am nächsten Morgen versucht [[Gunthar]] erfolglos Tiere aufzuspüren um seinen verstorbenen Falken zu ersetzen. [[Macavius “Ink“ Osma|Macavius]] öffnet den Bauch des Drachens und entnimmt fachmännisch die Überreste von [[Hawkie]]. Aus den Knochen versucht er erfolglos eine Kette zu knüpfen bevor [[Gunthar]] den Falken dann begräbt und weiter Drachenschuppen vom Kadaver von [[Venom Fang]] sammelt. [[Erin]] nimmt erneut Kontakt zu [[Die Stimme|Stimme]] auf. Es ist offensichtlich nicht der [[Nekromant von Fey]] gewesen, da sie weiterhin antwortet aber wenig bis keine Details offenbart. Er bedeutet [[Erin]] sich zu öffnen, bleibt aber ungenau. 
 
-Der [[Nekromant]] hat auch nicht auf unsere Kommunikationsversuche reagiert. Wir werden alle Leichen in unserer [[Bag of Holding]] los und verscharren sie mit den Zombies.
+Der [[Nekromant von Fey]] hat auch nicht auf unsere Kommunikationsversuche reagiert. Wir werden alle Leichen in unserer [[Bag of Holding]] los und verscharren sie mit den Zombies.
 
 [[Macavius “Ink“ Osma|Macavius]] bemerkt, dass er unglaublich stinkt und verwesende Stellen aufweist.
 
@@ -32,7 +32,7 @@ Wir machen uns vollbepackt mit den [[Drachenschuppen]] und dem [[Kopf von Venom 
 
 Via Sending-Spell versucht [[Erin]] zu verschiedenen Parteien Kontakt aufzunehmen:
 
-- [[Gundran]] lehnt es ab, die [[Drachenschuppen]] in [[Conyberry]] für uns abzuholen, lädt uns aber ein mal vorbei zu kommen.
+- [[Gundren]] lehnt es ab, die [[Drachenschuppen]] in [[Conyberry]] für uns abzuholen, lädt uns aber ein mal vorbei zu kommen.
 - [[Daran]] erfährt von uns, dass wir den Nekromanten getötet haben
 - [[Schwester Garele]] reagiert äußerst verstört auf seine Stimme, irgendwas stimmt nicht
 
@@ -54,6 +54,6 @@ Im [[Underdark]] versuchen wir an einer sicheren Stelle zu übernachten, werden 
 
 Als wir wieder erholt sind, machen wir uns auf den Weg zur [[Krypta von Talhund]], [[Gunthar]] zeigt sich als sehr fähiger Fährtenleser und Guide. Wir kommen bei [[Talhundbereth]] an und begeben uns in einen Raumkomplex der offensichtlich als Schlafräume diente, in dem Gemeinschaftsraum liegt frisches Ziegenblut auf einem Stuhl.
 
-Aus einem der Räume kommt eine widerwärtige Gestalt namens [[Falfach]], sie fragt uns wer von uns das Opfer wäre und ob wir uns anschließen würden. Wir bekommen nicht viel aus ihm raus, kurz hinter ihm folgt ein [[Krasses Tentakelfiech]], wir scheinen also richtig zu sein.
+Aus einem der Räume kommt eine widerwärtige Gestalt namens [[Falfach]], sie fragt uns wer von uns das Opfer wäre und ob wir uns anschließen würden. Wir bekommen nicht viel aus ihm raus, kurz hinter ihm folgt ein [[Pyramiden Tentakelmonster]], wir scheinen also richtig zu sein.
 
 Wir machen mit beiden einen kurzen Prozess und wollen uns danach kurz ausruhen.

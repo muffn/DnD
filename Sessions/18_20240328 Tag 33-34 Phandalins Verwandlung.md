@@ -43,7 +43,7 @@ Das Kind erzählt uns, dass es komische [[Pyramiden Tentakelmonster]] gesehen ha
 
 Eins der Monster hängt sich an [[Macavius “Ink“ Osma|Macavius]] und beißt ihn, es kommt zum Kampf und wir erledigen alle Monster.
 
-Die Wohnung beherbergt nichts nennenswertes außer einem Skelett. Wie das Tagebuch in seinem Besitz erfahren lässt, handelt es sich um einen [[Paladin]] von [[Dumathoin]] der von den [[Pyramiden Tentakelmonster]]n vor der [[Krypta von Talhund]] angegriffen wurde. Er ist dann seinen Wunden zuhause erlegen.
+Die Wohnung beherbergt nichts nennenswertes außer einem Skelett. Wie das Tagebuch in seinem Besitz erfahren lässt, handelt es sich um einen [[Zwergen Paladin]] von [[Dumathoin]] der von den [[Pyramiden Tentakelmonster]]n vor der [[Krypta von Talhund]] angegriffen wurde. Er ist dann seinen Wunden zuhause erlegen.
 
 Er hat davon berichtet, dass sein Auftrag es war, die unruhigen Geister in der [[Krypta von Talhund]] zu besänftigen. Der Eingang zur Krypta ist aber durch ein Puzzle blockiert, dessen Lösung nur die Diener der Krypta kennen.
 

@@ -10,7 +10,7 @@ tags:
 ---
 ## Session Zusammenfassung
 
-Epischer Kampf mit [[Venom Fang]] und dem [[Nekromant]]. Der Drache wird durch [[Macavius “Ink“ Osma|Macavius]] niedergestreckt, während [[Kaithos]] den [[Nekromant]] nach einem langen Katz und Mausspiel mit bloßen Händen erschlägt. Eigenartige Dinge passieren: Gunthar hat wieder eine schleimige Haut, Erins Gehirn drückt von innen sichtbar gegen den Kopf, Ismael hat auf einmal ein Auge auf seiner Hand und Kaithos hat... Rückenschmerzen.
+Epischer Kampf mit [[Venom Fang]] und dem [[Nekromant von Fey]]. Der Drache wird durch [[Macavius “Ink“ Osma|Macavius]] niedergestreckt, während [[Kaithos]] den [[Nekromant von Fey]] nach einem langen Katz und Mausspiel mit bloßen Händen erschlägt. Eigenartige Dinge passieren: Gunthar hat wieder eine schleimige Haut, Erins Gehirn drückt von innen sichtbar gegen den Kopf, Ismael hat auf einmal ein Auge auf seiner Hand und Kaithos hat... Rückenschmerzen.
 ^summary
 
 ## Zusammenfassung der letzten Session
@@ -32,11 +32,11 @@ Aus der Ferne sehen wir fast ein duzend [[Untote|Zombies]] auf uns zu marschiere
 
 Im weiteren Verlauf kämpfen wir wenig erfolgreich gegen [[Venom Fang]], immer die [[Untote|Zombies]] im Hinterkopf behaltend.
 
-Auf einmal taucht, wie aus dem nichts, ein [[Nekromant]] auf. Er beobachtet den Kampf interessiert, während [[Venom Fang]] ihn dazu aufruft einzuschreiten. Scheinbar haben die beiden ein Bündnis geschmiedet. Der Versuch von [[Macavius “Ink“ Osma|Macavius]] den Drachen gegen den [[Nekromant]] zu richten scheitert kläglich. Andersherum versucht [[Ismael]] den [[Nekromant]] auf unsere Seite zu ziehen, das scheitert ebenfalls.
+Auf einmal taucht, wie aus dem nichts, ein [[Nekromant von Fey]] auf. Er beobachtet den Kampf interessiert, während [[Venom Fang]] ihn dazu aufruft einzuschreiten. Scheinbar haben die beiden ein Bündnis geschmiedet. Der Versuch von [[Macavius “Ink“ Osma|Macavius]] den Drachen gegen den [[Nekromant von Fey]] zu richten scheitert kläglich. Andersherum versucht [[Ismael]] den [[Nekromant von Fey]] auf unsere Seite zu ziehen, das scheitert ebenfalls.
 
 Als die [[Untote|Zombies]] dann in unsere Reichweite kommen verbrennt [[Ismael]] die erste Reihe fast sofort, während [[Gunthar]] sich auf die zweite Stürzt.
 
-[[Erin]] hält den [[Nekromant]] durch einen Counterspell davon ab, Zauber auf uns zu wirken.
+[[Erin]] hält den [[Nekromant von Fey]] durch einen Counterspell davon ab, Zauber auf uns zu wirken.
 
 In einem letzten aufbäumen, teleportiert sich [[Macavius “Ink“ Osma|Macavius]] erneut auf den Rücken von [[Venom Fang]] und setzt ihm mit seinem Großschwert zu. Die Angriffe verfehlen, wie wir es von ihm nicht anders gewohnt sind.
 
@@ -44,15 +44,15 @@ Der Drache versucht aber jetzt, den festgekrallten Paladin von seinem Rücken ab
 
 [[Macavius “Ink“ Osma|Macavius]] nutzt die Chance, steigt vom Drachen ab und trennt dessen Kopf mit einem Schlag vom Körper um sich darauf hin sofort wieder Richtung Kampfgeschehen zu bewegen.
 
-Die Zombies werden nach und nach von [[Gunthar]] und den anderen in Stücke zerfetzt. Als [[Macavius “Ink“ Osma|Macavius]] gerade auf den [[Nekromant]] mit seinem Pferd zu galopiert, verschwindet dieser und macht sich unsichtbar.
+Die Zombies werden nach und nach von [[Gunthar]] und den anderen in Stücke zerfetzt. Als [[Macavius “Ink“ Osma|Macavius]] gerade auf den [[Nekromant von Fey]] mit seinem Pferd zu galopiert, verschwindet dieser und macht sich unsichtbar.
 
-Gemeinsam versucht die Gruppe vergeblich den [[Nekromant]] aufzuspüren und durchsucht dabei den Turm, das Zelt und die umliegende Umgebung. [[Ismael]] nutzt dafür seine Fähigkeit, unsichtbare zu sehen.
+Gemeinsam versucht die Gruppe vergeblich den [[Nekromant von Fey]] aufzuspüren und durchsucht dabei den Turm, das Zelt und die umliegende Umgebung. [[Ismael]] nutzt dafür seine Fähigkeit, unsichtbare zu sehen.
 
-[[Erin]] versucht den Verstand des [[Nekromant]] zu orten und tritt tatsächlich mit einer [[Die Stimme|Stimme]] in Kontakt. Er sagt, dass er es schön findet, dass sich [[Erin]] auch mal bei ihm meldet und nicht nur andersrum. Als Erin versucht weiter in den Verstand einzudringen wird er durch [[Die Stimme]] verletzt.
+[[Erin]] versucht den Verstand des [[Nekromant von Fey]] zu orten und tritt tatsächlich mit einer [[Die Stimme|Stimme]] in Kontakt. Er sagt, dass er es schön findet, dass sich [[Erin]] auch mal bei ihm meldet und nicht nur andersrum. Als Erin versucht weiter in den Verstand einzudringen wird er durch [[Die Stimme]] verletzt.
 
 [[Ismael]] macht sich auf einmal aus dem Staub und bewegt sich zum Drachenkörper hin, [[Gunthar]] verfolgt ihn.
 
-Diesen Moment nutzt der [[Nekromant]] um den Rest der Gruppe anzugreifen, er erwischt [[Macavius “Ink“ Osma|Macavius]] und [[Erin]] eiskalt mit einem Eissturm.
+Diesen Moment nutzt der [[Nekromant von Fey]] um den Rest der Gruppe anzugreifen, er erwischt [[Macavius “Ink“ Osma|Macavius]] und [[Erin]] eiskalt mit einem Eissturm.
 
 [[Macavius “Ink“ Osma|Macavius]] versucht Wasser auf den unsichtbaren zu werfen, verfehlt aber. Ein langes Katz- und Mausspiel beginnt an dessen Ende [[Kaithos]] den Nekromanten mit bloßen Händen tötet.
 

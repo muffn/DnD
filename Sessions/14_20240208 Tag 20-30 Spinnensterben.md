@@ -9,14 +9,13 @@ tags:
   - TVZ
 ---
 ## Session Zusammenfassung
-tbd
 
 Wir erwachten in der Taverne "Schlafender Riese", wobei Gunthar von einem Albtraum mit einer Spinne im Verließ berichtete. Nundro plant eine Reise nach Neverwinter für die Vorbereitung der Mine. Vorher besuchten wir Schwester Garele, um sicherzustellen, dass es ihr gut geht. In Neverwinter kauften wir magische Gegenstände bei Zephyrs Emporium der Wunder und ließen einen mysteriösen Stein bei Sophia untersuchen. Gunthar erwarb einen Falken auf dem Tiermarkt. In der Großen Bibliothek suchten wir nach Informationen über die Verlorene Mine, Drachen und den Nekromanten. Gwin, die Bibliothekarin, identifizierte sich als Elsas Schwester. Wir boten Gwin an, sie nach Phandalin zu begleiten, wo sie ihre Schwester besuchen möchte. Nach einer weiteren Nacht in Neverwinter kehrten wir zu Sophia zurück, die den Stein nicht identifizieren konnte, aber seine magische Herkunft bestätigte. Auf dem Weg nach Phandalin machten wir einen Abstecher zur Cragmaw Festung, um Gundren zu befreien. Wir fanden Nesnar tot bei der magischen Schmiede und erfuhren von ihm, dass er die Spinne sei und den Nekromanten zuletzt beim Old Owl Tower getroffen habe. Nesnar und der Bruder von Gundren wurden in die Bag of Holding gepackt, und wir kehrten nach Phandalin zurück, wo uns die Bürger über seltsame Ereignisse berichteten.
 ^summary
 
 ## Zusammenfassung der letzten Session
 
-![[13_20240125 Tag 18-19 Die verlorene Mine 5#^summary]]
+![[13_20240125 Tag 18-19 Die verlorene Mine 4#^summary]]
 ---
 
 ## Log
@@ -36,13 +35,13 @@ Wir haben Heiltränke gekauft und die [[Bag of Holding]]. Darüber hinaus hat [[
 
 [[Gunthar]] wollte anschließend noch auf den Tiermarkt um einen [[Hawkie]] zu erwerben, den er auch für 40 Gold erhalten hat.
 
-Anschließend haben wir die [[Große Bibliothek]] von [[Neverwinter]] aufgesucht und dort mit der [[Zwerg|Zwergin]] und Bibliothekarin [[Gwin]] zu sprechen um Aufzeichnungen über die [[Verlorene Mine von Phandelver|Verlorene Mine]], [[Drache|Drachen]] und den [[Nekromant]] zu finden.
+Anschließend haben wir die [[Große Bibliothek]] von [[Neverwinter]] aufgesucht und dort mit der [[Zwerg|Zwergin]] und Bibliothekarin [[Gwin]] zu sprechen um Aufzeichnungen über die [[Verlorene Mine von Phandelver|Verlorene Mine]], [[Drache|Drachen]] und den [[Nekromant von Fey]] zu finden.
 
 [[Kaithos]] hat die [[Zwerg|Zwergin]] als die Schwester von [[Elsa]] identifiziert, die von einer Schwester in [[Neverwinter]] sprach. Dafür hat er eine [[Inspiration]] erhalten.
 
 Zu dem Grünen Feuer der Mine haben wir keine neuen Informationen erhalten, zum Drachen auch nicht.
 
-Über den [[Nekromant]] direkt auch nicht, nur dass die [[Rote Magier von Fey]] Bürger im Osten des Landes getötet und unterdrückt haben.
+Über den [[Nekromant von Fey]] direkt auch nicht, nur dass die [[Rote Magier von Fey]] Bürger im Osten des Landes getötet und unterdrückt haben.
 
 Wir haben [[Gwin]] angeboten, sie zurück nach [[Phandalin]] zu begleiten, sie hatte angemerkt dass sie dort hin möchte um ihre Schwester [[Elsa]] zu besuchen.
 
@@ -64,7 +63,7 @@ Wir haben [[Gundren]] schnell befreit, es gab keine Gegner im Schloss. Darauf hi
 
 Dort haben wir [[Nesnar]] tot bei der [[magischen Schmiede]] aufgefunden. Er hat scheinbar ins Feuer gefasst und wollte die magische Kraft absorbieren.
 
-[[Ismael]] hat mit dem toten [[Nesnar]] gesprochen, welcher uns verriet, dass er die [[Nesnar|Spinne]] ist und dass er den [[Nekromant]] zuletzt bei [[Old Owl Tower]] getroffen hat.
+[[Ismael]] hat mit dem toten [[Nesnar]] gesprochen, welcher uns verriet, dass er die [[Nesnar|Spinne]] ist und dass er den [[Nekromant von Fey]] zuletzt bei [[Old Owl Tower]] getroffen hat.
 
 Wir haben [[Nesnar]] und den toten Bruder von [[Gundren]] in die [[Bag of Holding]] eingepackt und sind damit nach [[Phandalin]] zurück gereist.
 
