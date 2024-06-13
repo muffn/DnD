@@ -63,7 +63,5 @@ erin truhe randvoll mit kupfermünzen, bisschen silber bisschen gold -> 120gold 
 
 Chalice und räuchergefäß
 
-
-
 1592
 
