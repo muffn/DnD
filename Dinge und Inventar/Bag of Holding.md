@@ -13,3 +13,5 @@ Enthält zurzeit:
 - lizard medallion (bei erin)
 - [[Unbewegliche Greataxe]]
 - [[Obelisk]]
+
+1x zwergenrüstung (plate)

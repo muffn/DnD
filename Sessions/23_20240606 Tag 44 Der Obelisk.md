@@ -40,6 +40,18 @@ Danach kümmern wir uns um [[Malinia]] und die übrigen [[Pyramiden Tentakelmons
 
 Wir finden nichts anderes von Bedeutung und begeben uns in den nächsten Raum, der uns vermutlich in die [[Krypta von Talhund]] führt. Dort finden wir ein Rätsel, wie schon von dem toten [[Zwergen Paladin]] aus [[Phandalin]] angedeutet.
 
-Wir haben folgenden Satz lesen können: "Only a complete gift opens the crypt beyond"
+Wir haben folgenden Satz lesen können:
+
+The west end of this Long Tom
+
+A mountain filled with gem stone carvings
+
+West wall drehscheibe mit symbolen
+
+"Only a complete gift opens the crypt beyond"
 
 Es sind mehrere Drehmechanismen zu sehen und ein Sockel für einen Stein der eingesetzt werden kann. [[Erin]] und [[Macavius “Ink“ Osma|Macavius]] haben sich beim Ausprobieren wortwörtlich verbrannt.
+
+Dial carvings
+
+Facited gem stones 14 steine in verschiedenen Zuständen geschliffen 
