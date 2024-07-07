@@ -10,13 +10,12 @@ tags:
 ---
 ## Session Zusammenfassung
 
-
-
+Viele Schätze gelootet, Rätsel gelöst wie wir in die Krypta kommen, vor Hydra geflohen, super alten Gnom getroffen.
 ^summary
 
 ## Zusammenfassung der letzten Session
 
-![[23_20240606 Tag 44 Der Obelisk#Session Zusammenfassung]]
+![[23_20240606 Tag 44 Der Obelisk#^summary]]
 ---
 
 ## Log

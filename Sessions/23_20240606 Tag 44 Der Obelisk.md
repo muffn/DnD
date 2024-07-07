@@ -10,6 +10,7 @@ tags:
 ---
 ## Session Zusammenfassung
 
+
 Gehirn Boss gekillt, Onterix besiegt und Obelisk eingepackt, jetzt müssen wir das Rätsel lösen um in die Krypta vorzudringen.
 ^summary
 
