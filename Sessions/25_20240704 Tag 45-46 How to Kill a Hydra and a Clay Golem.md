@@ -32,7 +32,7 @@ Anschließend sind wir den Geistern entgegen getreten. [[Kaithos]] konnte sie be
 
 Als wir den zweiten Schalter fanden, entschlossen wir beide Hebel gleichzeitig zu betätigen, was dafür sorgte, dass sich eine Wand öffnete. Die Untoten Zwerge dahinter, konnten wir davon überzeugen uns nicht anzugreifen.
 
-Im nächsten Raum fanden wir einen Toten auf dem Boden, als [[Macavius “Ink“ Osma|Macavius]] dorthin ging um ihm zu helfen, stellte sich heraus, dass es [[Macavius “Ink“ Osma|Macavius]] selbst war, der dort lag. Bereits am verwesen und mit einem zerbrochenen Schädel.
+Im nächsten Raum fanden wir einen Toten auf dem Boden, als [[Macavius “Ink“ Osma|Macavius]] dorthin ging um ihm zu helfen, stellte sich heraus, dass es [[Macavius' Leiche]] selbst war, der dort lag. Bereits am verwesen und mit einem zerbrochenen Schädel.
 
 Die Gruppe steht im nun misstrauisch gegenüber. Während [[Macavius “Ink“ Osma|Macavius]] schockiert über seinem Leichnam verweilte, erkundete die Gruppe die weiteren Räume und stellte sich einem Monster, vor dem Sie dann flohen da es auch eine animierte Steinstatue zum leben versetzte.
 

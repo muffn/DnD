@@ -1,0 +1,1 @@
+Immun gegen physischen Schaden, wenn er nicht magisch ist.

@@ -4,7 +4,7 @@ welt: Forgotten Realms
 kampagne: Lost Mine of Phandelver
 ort: "[Neverwinter]"
 charaktere: 
-datum: 18-01-2024
+datum: 13-06-2024
 tags:
   - TVZ
 ---
@@ -54,7 +54,7 @@ Auf [[Macavius “Ink“ Osma|Macavius]] Seite finden sich weitere Gänge und ei
 
 Auf der Seite der restlichen Truppe findet sich ein [[Dunkelgnom]] namens [[Rivibitl]]. Er wurde durch Geister im inneren der Gänge magisch gealtert und verrät uns, dass er glaubt bestimmte Rituale und Sprüche hielten die Geister ab.
 
-Er steht in einer Grabstätte eines bekannten [[Zwergen]] der die Geschichte von [[Dumathoin]] niedergeschrieben hat. [[Rivibitl]] ist in der [[Krypta von Talhund]] weil er das [[Große Juwel]] sucht und hofft, dass wir ihm ein Stück abbrechen, wenn wir es finden.
+Er steht in einer Grabstätte eines bekannten [[Zwerg|Zwergen]] der die Geschichte von [[Dumathoin]] niedergeschrieben hat. [[Rivibitl]] ist in der [[Krypta von Talhund]] weil er das [[Großes Juwel]] sucht und hofft, dass wir ihm ein Stück abbrechen, wenn wir es finden.
 
 In der Krypta sind weitere Untote, bei denen die Gruppe die Tür verbarrikadiert. In der Grabstätte in der [[Rivibitl]] angetroffen wurde findet sich ein Hebel, den niemand bewegen kann.
 

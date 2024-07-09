@@ -4,4 +4,4 @@ Angetroffen in der [[Krypta von Talhund]]
 
 Wurde durch Geister magisch gealtert.
 
-Auf der Suche nach dem [[Große Juwel]]
+Hat einen Splitter von [[Großes Juwel]] mit nach Hause genommen
