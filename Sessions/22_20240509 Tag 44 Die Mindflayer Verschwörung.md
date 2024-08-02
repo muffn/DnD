@@ -31,7 +31,7 @@ Wir argumentieren eine Weile darüber, was hier gerade gesehen haben und entschl
 Als wir uns in die Richtung aufmachen, in die der Geisterzwerg gerannt ist, werden wir von einer [[Leuchtende Kugel]] angegriffen. [[Ismael]] fällt von dessen Schrei in Ohnmacht.
 
 Wir töten die Kugel in einem längeren Kampf und nehmen dessen Überreste mit.
-[[Macavius “Ink“ Osma|Macavius]] nimmt eine weitere Pause während der Rest die Kisten untersucht. Sie finden eine [[Karaffe des endlosen Wassers]] die scheinbar unbegrenzte Wasservorräte beherbergt.
+[[Macavius “Ink“ Osma|Macavius]] nimmt eine weitere Pause während der Rest die Kisten untersucht. Sie finden eine [[Karaffe der endlosen Flüssigkeit]] die scheinbar unbegrenzte Wasservorräte beherbergt.
 
 [[Macavius “Ink“ Osma|Macavius]] spürt über seinen Divine Sense etwas großes Böses in der Nähe.
 

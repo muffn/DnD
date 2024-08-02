@@ -8,9 +8,9 @@
 - 1 Chalice
 - 1 Räuchergefäß
 - Scroll of Hold Person
-- Scroll of Fireball
+- Scroll of Fireball (weg)
 - Scroll of Misty Step
-- Scroll of Lightning Bolt
+- Scroll of Lightning Bolt (weg)
 - 5 Grappling Hook
 - Gunther Spitzhacke
 - Spinnenstab
@@ -65,3 +65,8 @@ Chalice und räuchergefäß
 
 1592
 
+[[Wand of Magic Detection]]
+
+[[Unbewegliche Greataxe]]
+
+[[Mudslick Tower]]

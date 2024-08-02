@@ -1,0 +1,9 @@
+### Beschreibung
+
+Dieser Rucksack hat eine zentrale Tasche und zwei Seitentaschen, die jeweils einen extradimensionalen Raum darstellen. Jede Seitentasche kann bis zu 20 Pfund Material fassen, wobei das Volumen 2 Kubikfuß nicht überschreiten darf. Die große zentrale Tasche kann bis zu 8 Kubikfuß oder 80 Pfund Material fassen. Der Rucksack wiegt immer 5 Pfund, unabhängig von seinem Inhalt.
+
+Das Platzieren eines Gegenstands im haversack folgt den normalen Regeln für den Umgang mit Gegenständen. Um einen Gegenstand aus dem haversack zu entnehmen, musst du eine Aktion verwenden. Wenn du in den haversack greifst, um einen bestimmten Gegenstand zu finden, liegt der Gegenstand immer magisch obenauf.
+
+Der haversack hat einige Einschränkungen. Wenn er überladen ist oder ein scharfer Gegenstand ihn durchbohrt oder zerreißt, reißt der haversack auf und wird zerstört. Wenn der haversack zerstört wird, gehen seine Inhalte für immer verloren, obwohl ein Artefakt immer irgendwo wieder auftaucht. Wenn der haversack umgestülpt wird, fallen seine Inhalte unbeschädigt heraus, und der haversack muss wieder in Ordnung gebracht werden, bevor er wieder verwendet werden kann. Wenn eine atmende Kreatur in den haversack gelegt wird, kann die Kreatur bis zu 10 Minuten überleben, danach beginnt sie zu ersticken.
+
+Das Platzieren des haversack in einem extradimensionalen Raum, der durch einen bag of holding, ein portable hole oder ein ähnliches Objekt geschaffen wurde, zerstört sofort beide Gegenstände und öffnet ein Tor zur Astral Plane. Das Tor entsteht dort, wo der eine Gegenstand in den anderen gelegt wurde. Jede Kreatur innerhalb von 10 Fuß um das Tor wird hindurchgezogen und an einem zufälligen Ort in der Astral Plane abgesetzt. Das Tor schließt sich dann. Das Tor ist einseitig und kann nicht wieder geöffnet werden.

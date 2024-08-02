@@ -1,0 +1,2 @@
+### Beschreibung
+Dieser Zauberstab hat 3 charges. Während du ihn hältst, kannst du 1 charge als Aktion aufwenden, um den [[detect magic]] Zauber damit zu wirken. Der Zauberstab erhält täglich bei Morgengrauen 1d3 verbrauchte charges zurück.
