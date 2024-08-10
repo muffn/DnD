@@ -3,6 +3,8 @@ aliases:
   - Macavius
   - Ink
 ---
+Hat einen Sanity Ability Score von 13 (+1). Bei Saving Throws bekommt er zusätzlich noch +5. Also d20 + 6
+
 
 #Party 
 Mensch?
