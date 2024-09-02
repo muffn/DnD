@@ -1,0 +1,1 @@
+Historiker dessen Grabstätte in der [[Krypta von Talhund]] zu finden ist. Wurde durch das Böse korrumpiert und verwandelt und von uns dann in den Tunneln unter [[Phandalin]] niedergestreckt.

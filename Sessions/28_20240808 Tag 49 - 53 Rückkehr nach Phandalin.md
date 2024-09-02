@@ -10,8 +10,7 @@ tags:
 ---
 ## Session Zusammenfassung
 
-
-
+Wir erfahren mehr über den Plan der Mindflayer und bringen die Bewohner von Phandalin in der [[Verlorene Mine von Phandelver|verlorenen Mine]] in Sicherheit. Wir entdecken dass die Mine vor Bösem Einfluss geschützt ist und lüften das Geheimnis dahinter.
 ^summary
 
 ## Zusammenfassung der letzten Session

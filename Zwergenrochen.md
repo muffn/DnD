@@ -1,0 +1,1 @@
+Der verwandelte [[Thorgan Ironquill]] bei dem das [[Zwerg|Zwergen]]-Skelett mit einem Mantarochen ähnlichen Konstrukt verschmolzen ist, dass den [[Mindflayer]] dient. Er hatte noch einen Hauch von seinem eigenen Verstand der stängig gegen das Monster ankämpfte.

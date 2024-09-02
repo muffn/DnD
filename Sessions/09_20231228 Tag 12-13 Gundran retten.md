@@ -13,7 +13,7 @@ Wir fliehen nach unserem knappen Sieg über die Goblins in den Wald, im Süden, 
 Während unserem Versuch, eine kurze Rast einzulegen, entdecken uns die offensichtlich selbst fließenden restlichen Goblins mit [[Gundren]] im Gepäck und gehen in den Angriff über.
 Während dem Kampf flieht Gundran und zu guter letzt auch noch die zwei verbleibenden [[Hobgoblin]]. Wir finden eine Karte.
 Von der [[Nesnar|Spinne]] ist nichts zu sehen, ihren Wolf haben wir getötet.
-In der Festung durchsuchen wir alles und töten einen fliegenden Gehin-Adler-Schädel.
+In der Festung durchsuchen wir alles und töten einen fliegenden [[Gehirn-Adler-Schädel]].
 Als wir uns in der Nacht ausruhen wollen, tritt Gundran auf unsere Glassplitter die wir ausgelegt haben, wir holen ihn zu uns in Sicherheit und beschließen, unsere Kräfte über nacht zu sammeln.
 
 ^summary

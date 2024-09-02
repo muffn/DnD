@@ -65,8 +65,6 @@ Chalice und räuchergefäß
 
 1592
 
-[[Wand of Magic Detection]]
+wand of magic detection
 
-[[Unbewegliche Greataxe]]
-
-[[Mudslick Tower]]
+hewarda sack
