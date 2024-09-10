@@ -1,0 +1,1 @@
+Ein [[Mindflayer]] den wir im [[Illiphinoch]] angetroffen haben. Ihm scheint der Ausgang der Invasion egal zu sein. Er bietet uns an, dass wir im Austausch gegen die Kristalle und die Position der [[Verlorene Mine von Phandelver|verlorenen Mine]] erfahren, wie wir mit dem Portal in den [[Far Realm]] reisen können.

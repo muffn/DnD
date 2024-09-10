@@ -14,6 +14,9 @@ Enthält zurzeit:
 - [[Unbewegliche Greataxe]]
 - [[Obelisk]]
 
+1x quickend spell
+
+
 1x zwergenrüstung (plate)
 
 Mud slick tower

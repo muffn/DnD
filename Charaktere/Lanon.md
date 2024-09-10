@@ -1,0 +1,1 @@
+Gesehen und getötet im [[Illiphinoch]] Ehemaliger Gelehrter der mit [[Lanon]] der Kolonie beigetreten ist. Hat aber noch an der Verwandlung gezweifelt, wollte nicht verwandelt werden.
