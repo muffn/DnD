@@ -2,7 +2,7 @@
 typ: session
 welt: Forgotten Realms
 kampagne: Lost Mine of Phandelver
-ort: "[Neverwinter]"
+ort: 
 charaktere: 
 datum: 30-11-2023
 tags:

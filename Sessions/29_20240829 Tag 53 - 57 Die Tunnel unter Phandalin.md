@@ -2,9 +2,9 @@
 typ: session
 welt: Forgotten Realms
 kampagne: Lost Mine of Phandelver
-ort: "[Neverwinter]"
+ort: 
 charaktere: 
-datum: 08-08-2024
+datum: 29-08-2024
 tags:
   - TVZ
 ---

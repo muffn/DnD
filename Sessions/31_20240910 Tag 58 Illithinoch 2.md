@@ -2,21 +2,20 @@
 typ: session
 welt: Forgotten Realms
 kampagne: Lost Mine of Phandelver
-ort: "[Neverwinter]"
+ort: 
 charaktere: 
-datum: 18-07-2024
+datum: 10-09-2024
 tags:
   - TVZ
 ---
 ## Session Zusammenfassung
 
-
-
+Wir kämpfen uns weiter durch den [[Illiphinoch]]
 ^summary
 
 ## Zusammenfassung der letzten Session
 
-![[26_20240807 Tag 46-47 Auf dem Weg nach Gibbets Crossing#^summary]]
+![[30_20240907 Tag 58 Illithinoch 1#^summary]]
 ---
 
 ## Log
