@@ -10,7 +10,7 @@ tags:
 ---
 ## Session Zusammenfassung
 
-Wir kämpfen uns weiter durch den [[Illiphinoch]]
+Wir kämpfen uns weiter durch den [[Illiphinoch]] und finden mehr über Ursprung und Aufenthaltsort von [[Illvarsch]] heraus.
 ^summary
 
 ## Zusammenfassung der letzten Session
