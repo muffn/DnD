@@ -40,7 +40,7 @@ In den Kampf mischt sich zu allem übel auch noch ein weiterer [[Mindflayer]] ei
 
 Der Raum in dem sich das [[Elderbrain]] gehaust hat, hat verschiedene Symbole um das Becken die ständig verschwimmen, wir können sie nicht entziffern.
 
-Im Pool finden wir drei Kristalle die uns 1x quickend Spell ermöglichen und 2x extended spell.
+Im Pool finden wir drei [[Kristallkugel]] die uns 1x quickend Spell ermöglichen und 2x extended spell.
 
 Im Raum nördlich davon finden wir ein Portal, wir manipulieren es so, dass wir es wieder in Stand setzen können. Die Zeichnung daneben in Kreide an der Wand zeigt das gleiche, auch diese Manipulieren wir auf die gleiche Art. Das Portal besteht aus einem Kreis von Symbolen, wir wissen, dass uns etwas fehlt um Hindurch zu treten. Wir vermuten aber, dass das Portal in [[Far Realm]] führt.
 

@@ -1,0 +1,1 @@
+[[Goblin]] des [[Sawplies Clan]]. Angetroffen und getötet im [[Illiphinoch]]
