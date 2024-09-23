@@ -40,4 +40,4 @@ Anschließend stürmen wir den Planetenraum und radieren die zwei Monster im Kam
 
 Wir entschließen uns dazu, in diesem Raum zu rasten und bauen unseren [[Mudslick Tower]] auf. [[Erin]] liest in seinem Buch noch mehr über [[Illvarsch]] und [[Illsensein]] und findet heraus, dass [[Illvarsch]] in der [[Endless Void]] haust die nur über das [[Briny Maze]] zu erreichen ist. Wir finden auch weitere Informationen zu einem [[Lightless Star]]
 
-In der Nacht klopft es an unserer Tür. [[Gunthar]] öffnet und wir werden von [[Grünes Auge]] und seinen Kameraden attackiert.
+In der Nacht klopft es an unserer Tür. [[Gunthar]] öffnet und wir werden einem der Augenfiechern und seinen Kameraden attackiert.
