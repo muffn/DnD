@@ -1,0 +1,1 @@
+[[Beholder]] den wir im [[Briny Maze]] angetroffen haben. Soll für seinen Meister [[Jomlus]] ein [[Mysteriöses Buch]] entziffern.

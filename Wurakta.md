@@ -1,0 +1,1 @@
+Angetroffen mit seiner Gruppe im [[Briny Maze]]. Anführer einer [[Githyanki]] Gruppe. Mission ist uns unbekannt.

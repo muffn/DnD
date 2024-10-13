@@ -1,4 +1,7 @@
 
+Dach 4dmg
+Wände 4dmg
+
 Du kannst eine Aktion verwenden, um diese Granitkugel mit einem Durchmesser von 1 Zoll auf den Boden zu legen und das Befehlswort "Petrification" in [[Terranisch]] zu sprechen. Die Kugel wächst schnell zu einem festen Turm heran, der bestehen bleibt, bis du eine Aktion verwendest, um den Turm zu berühren und das Befehlswort erneut zu sprechen, woraufhin der Turm wieder auf eine Granitkugel mit einem Durchmesser von 1 Zoll schrumpft. Der Turm muss leer sein, um auf diese Weise zu schrumpfen. Der Turm ist mit schlammigen Knöpfen bedeckt, die sich ständig über seine Oberfläche heraus- und zurückziehen, als ob der Turm durch eine Schicht aus dickem Schlamm atmet.
 
 Jede Kreatur in dem Bereich, in dem der Turm erscheint, muss einen Dexterity saving throw gegen DC 15 ablegen und erleidet bei einem misslungenen Rettungswurf 10d10 bludgeoning Schaden oder bei einem erfolgreichen Rettungswurf die Hälfte des Schadens. In beiden Fällen wird die Kreatur in einen unbesetzten Raum außerhalb, aber neben dem Turm geschoben. Gegenstände in dem Bereich, die nicht getragen oder gehalten werden, erleiden diesen Schaden und werden automatisch verschoben.
